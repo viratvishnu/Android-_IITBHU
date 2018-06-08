@@ -44,6 +44,7 @@ public class FindBeerActivity extends Activity {
          <item>Lickener</item>
     </string-array>
 </resources>
+/resources is useful for Internalization of work/
 /activity_find_beer.xml/
 <?xml version="1.0" encoding="utf-8"?>
     <LinearLayout
