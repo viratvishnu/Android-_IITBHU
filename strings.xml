@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CallIntentActivity</string>
+    <string-array name="intents">
+        <item>Open Browser</item>
+        <item>Dial</item>
+        <item>Show Map</item>
+        <item>Search on Map</item>
+        <item>Take picture</item>
+        <item>Show contacts</item>
+        <item>Edit first contact</item>
+    </string-array>
+</resources>
